@@ -1,8 +1,8 @@
-不動産価格（取引価格・成約価格）情報取得API
-https://www.reinfolib.mlit.go.jp/help/apiManual/#titleApi4
-このAPIがブラウザから直接アクセスできない（CORSエラー）ので、中間で受け取り送りなおすAPIを作った。
-API使用例
-http://eijiyoshida1912.itigo.jp/syskiso2-api/public/api/realestate/01
+<h1>不動産価格（取引価格・成約価格）情報取得API</h1>
+<p>https://www.reinfolib.mlit.go.jp/help/apiManual/#titleApi4</p>
+<p>このAPIがブラウザから直接アクセスできない（CORSエラー）ので、中間で受け取り送りなおすAPIを作った。</p>
+<p>API使用例<br />
+http://eijiyoshida1912.itigo.jp/syskiso2-api/public/api/realestate/01</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
